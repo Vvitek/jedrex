@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jedrex/static/css/main.51c36c7c.css",
+    "main.js": "/jedrex/static/js/main.e6e64d90.js",
+    "static/js/787.03fb4b9c.chunk.js": "/jedrex/static/js/787.03fb4b9c.chunk.js",
+    "index.html": "/jedrex/index.html",
+    "main.51c36c7c.css.map": "/jedrex/static/css/main.51c36c7c.css.map",
+    "main.e6e64d90.js.map": "/jedrex/static/js/main.e6e64d90.js.map",
+    "787.03fb4b9c.chunk.js.map": "/jedrex/static/js/787.03fb4b9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c36c7c.css",
+    "static/js/main.e6e64d90.js"
+  ]
+}
